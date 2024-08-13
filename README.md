@@ -18,22 +18,23 @@ Start the game by running the `main.py` script:
 
 ```bash
 python main.py
+```
 
 ### Navigate the Game
 
 #### Main Menu
-- **Choose between Learn, Play, and Test sections.** 
-- **Use the "Exit" button to close the game.**
+- Choose between Learn, Play, and Test sections.
+- Use the "Exit" button to close the game.
 
 #### Learn Section
-- **Click on buttons to watch educational videos on various math topics.**
+- Click on buttons to watch educational videos on various math topics.
 
 #### Play Section
-- **Solve math problems to progress through the story.** 
-- **Videos are shown at specific points in the story.**
+- Solve math problems to progress through the story.
+- Videos are shown at specific points in the story.
 
 #### Test Section
-- **Answer quiz questions to test your math skills and earn points.**
+- Answer quiz questions to test your math skills and earn points.
 
 ### Controls
 
