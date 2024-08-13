@@ -41,7 +41,7 @@ python main.py
 - **Back Button**: Return to the main menu from any section.
 - **Enter Key**: Submit answers in the Play section.
 - **Backspace Key**: Edit answers in the Play section.
-
+- **Esc Key**: Exit the currently playing video
 
 ## Code Structure
 
